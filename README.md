@@ -1,3 +1,3 @@
-# push_app
+# Push App
 
-A new Flutter project.
+A Flutter + Firebase project for local and push mobile notifications.
